@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Oregano01
-- 👀 I’m interested in Surfing and trying my best with Coding 
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Kitesurfing and trying my best with Coding 
+- 🌱 I’m currently learning a lot of new stuff.
+- 📫 How to reach me tom.krzy.par@gmail.com
 
 <!---
 Oregano01/Oregano01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
