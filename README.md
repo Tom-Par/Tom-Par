@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Oregano01
+- 👋 Hi, I’m @Tom-Par
 - 👀 I’m interested in Kitesurfing and trying my best with Coding 
 - 🌱 I’m currently learning a lot of new stuff.
 - 📫 How to reach me tom.krzy.par@gmail.com
