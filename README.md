@@ -1,4 +1,4 @@
-# 💫 About Me:
+#💫 Hi, I'm Tommy—an adventurer, kitesurfer, and developer in the making.
 🔭 I’m currently studying - Applied Computer Science and Measurement Systems Bachelor<br>🌱 I’m currently learning Full Stack Web Development<br><br>
 
 
