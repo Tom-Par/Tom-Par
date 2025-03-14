@@ -1,5 +1,5 @@
 # 💫 Hi, I'm Tommy—an adventurer, kitesurfer, and developer in the making.
-<br>🔭 #1 Applied Computer Science and Measurement Systems Bachelor - Uniwersity of Wroclaw<br>🔭 #2 Artificial Inteligence and Data Science Bachelor - AEH Warsaw<br>🌱 I’m learning Full Stack Web Development<br><br>
+<br>🔭 #1 Applied Computer Science and Measurement Systems Bachelor - Uniwersity of Wroclaw (during studies)<br>🔭 #2 Artificial Inteligence and Data Science Bachelor - AEH Warsaw (during studies)<br>🌱 I’m learning Full Stack Web Development<br><br>
 
 
 ## 🌐 Socials:
